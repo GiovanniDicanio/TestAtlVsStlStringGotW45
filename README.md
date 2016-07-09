@@ -1,8 +1,8 @@
-# String Performance Tests Based on Herb Sutter's GotW #45
+# ATL (COW) vs. STL String Performance Tests Based on Herb Sutter's GotW #45
 
-(original code downloaded from: [http://www.gotw.ca/gotw/045.htm](http://www.gotw.ca/gotw/045.htm))
+(Original code downloadable from: [http://www.gotw.ca/gotw/045.htm](http://www.gotw.ca/gotw/045.htm))
 
-by Giovanni Dicanio <giovanni.dicanio@gmail.com>
+by Giovanni Dicanio < giovanni.dicanio AT gmail.com >
 
 July 8th, 2016
 
